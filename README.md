@@ -4,5 +4,5 @@
 
 Para o funcionamento do jogo:
 ```
-Abra o arquivo inde.js utilizando algum navegador
+Abra o arquivo index.html utilizando algum navegador
 ```
