@@ -1,6 +1,6 @@
 # Jogo Advinhe o Número
 
-> Status: Em desenvolvimento
+> Status: Finalizado
 
 Para o funcionamento do jogo:
 ```
