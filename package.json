@@ -1,0 +1,12 @@
+{
+  "name": "jogo_advinhe_numero",
+  "version": "1.0.0",
+  "description": "> Status: Em desenvolvimento",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Almir de Lima Barbosa",
+  "license": "ISC"
+}

@@ -1,3 +1,5 @@
+import {numeroAleatorio} from './js/numeroAleatorio.js';
+
 let numeroSecreto;
 let valorMinimo = 0;
 let valorMaximo = 100;
@@ -5,9 +7,7 @@ let palpiteUsuario;
 
 alert("Bem vindo ao jogo: Advinhe o Número Secreto");
 
-function numeroAleatorio(min, max){
-    return Math.floor(Math.random() * (max - min + 1)) + min;
-}
+
 
 numeroSecreto = numeroAleatorio(valorMinimo, valorMaximo); // cria um valor aleatório e amarzena na variavel
 
